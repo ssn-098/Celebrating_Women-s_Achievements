@@ -1,0 +1,28 @@
+h1{
+    font-family:Castellar;
+    color:palevioletred;
+}
+.fir{
+    background-color: white;
+    border-radius: 2%;
+}
+.sec{
+  background-color: white;
+   margin-left: 30%;
+   margin-right: 30%;
+   border-radius: 10%;
+   
+}
+body{
+    font-family: 'Times New Roman';
+}
+h2{
+    font-family: Imprint MT Shadow;
+    font-style: oblique;
+    color:blue;
+}
+h3{
+    font-family:Monotype Corsiva;
+    font-size: large;
+    color:coral;
+}

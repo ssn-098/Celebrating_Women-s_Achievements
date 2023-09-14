@@ -1,0 +1,43 @@
+h1{
+    font-family:Castellar;
+    color:palevioletred;
+}
+body{
+    font-family: 'Times New Roman';
+}
+h3{
+    font-family: Imprint MT Shadow;
+    font-style: oblique;
+    color:blue;
+}
+p{
+    font-family:Monotype Corsiva;
+    font-size: large;
+    color:whitesmoke;
+}
+.fir{
+    background-color: white;
+    border-radius: 2%;
+}
+.sec{
+    height:1300px;
+    width:1200px;
+
+    background-color: white;
+   margin-left: 10%;
+   margin-right: 10%;
+   border-radius: 10%;
+   
+}
+.s{
+    width:320px;
+    background-color: rgb(215, 147, 157);
+    border-radius: 15px;
+}
+td{
+    height:400px;
+    width:300px;
+    border-radius: 15px;
+    background-color: wheat;
+    padding: 20px;
+}
